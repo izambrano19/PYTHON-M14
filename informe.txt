@@ -1,120 +1,272 @@
-L'ALINEAMENT ES -9:
-L'ALINEAMENT ES -9:
-L'ALINEAMENT ES -9:
-L'ALINEAMENT ES -9:
-L'ALINEAMENT ES -9:
-L'ALINEAMENT ES -9:
-L'ALINEAMENT ES -9:
-L'ALINEAMENT ES -9:
-L'ALINEAMENT ES -9:
-L'ALINEAMENT ES -9:
-L'ALINEAMENT ES -9:
-L'ALINEAMENT ES -9:
-L'ALINEAMENT ES -9:
-L'ALINEAMENT ES -9:
-L'ALINEAMENT ES -9:
-L'ALINEAMENT ES 34:
-L'ALINEAMENT ES 30:
-L'ALINEAMENT ES 22:
-L'ALINEAMENT ES -100:
-L'ALINEAMENT ES 10:
-L'ALINEAMENT ES 14:
-L'ALINEAMENT ES -96:
-L'ALINEAMENT ES 12:
-L'ALINEAMENT ES 12:
-L'ALINEAMENT ES 16:
-L'ALINEAMENT ES -92:
-L'ALINEAMENT ES 18:
-L'ALINEAMENT ES -104:
-L'ALINEAMENT ES 26:
-L'ALINEAMENT ES 102:
-L'ALINEAMENT ES 108:
-L'ALINEAMENT ES -108:
-L'ALINEAMENT ES 38:
-L'ALINEAMENT ES 36:
-L'ALINEAMENT ES -104:
-L'ALINEAMENT ES 54:
-L'ALINEAMENT ES 48:
-L'ALINEAMENT ES 58:
-L'ALINEAMENT ES -106:
-L'ALINEAMENT ES 56:
-L'ALINEAMENT ES -92:
-L'ALINEAMENT ES 48:
-L'ALINEAMENT ES 120:
-L'ALINEAMENT ES -126:
-L'ALINEAMENT ES 36:
-L'ALINEAMENT ES 42:
-L'ALINEAMENT ES -104:
-L'ALINEAMENT ES 44:
-L'ALINEAMENT ES 36:
-L'ALINEAMENT ES 46:
-L'ALINEAMENT ES -94:
-L'ALINEAMENT ES 46:
-L'ALINEAMENT ES -104:
-L'ALINEAMENT ES 50:
-L'ALINEAMENT ES -120:
-L'ALINEAMENT ES 28:
-L'ALINEAMENT ES 32:
-L'ALINEAMENT ES -102:
-L'ALINEAMENT ES 56:
-L'ALINEAMENT ES 26:
-L'ALINEAMENT ES 32:
-L'ALINEAMENT ES -90:
-L'ALINEAMENT ES 36:
-L'ALINEAMENT ES -114:
-L'ALINEAMENT ES 34:
-L'ALINEAMENT ES -112:
-L'ALINEAMENT ES -116:
-L'ALINEAMENT ES -76:
-L'ALINEAMENT ES -110:
-L'ALINEAMENT ES -132:
-L'ALINEAMENT ES -128:
-L'ALINEAMENT ES -116:
-L'ALINEAMENT ES -128:
-L'ALINEAMENT ES -98:
-L'ALINEAMENT ES -124:
-L'ALINEAMENT ES 186:
-L'ALINEAMENT ES -100:
-L'ALINEAMENT ES 44:
-L'ALINEAMENT ES 30:
-L'ALINEAMENT ES 34:
-L'ALINEAMENT ES -106:
-L'ALINEAMENT ES 36:
-L'ALINEAMENT ES -86:
-L'ALINEAMENT ES 36:
-L'ALINEAMENT ES -100:
-L'ALINEAMENT ES 42:
-L'ALINEAMENT ES 32:
-L'ALINEAMENT ES 36:
-L'ALINEAMENT ES -104:
-L'ALINEAMENT ES 38:
-L'ALINEAMENT ES -88:
-L'ALINEAMENT ES 38:
-L'ALINEAMENT ES -96:
-L'ALINEAMENT ES -102:
-L'ALINEAMENT ES -102:
-L'ALINEAMENT ES -102:
-L'ALINEAMENT ES -102:
-L'ALINEAMENT ES -100:
-L'ALINEAMENT ES -100:
-L'ALINEAMENT ES 28:
-L'ALINEAMENT ES 34:
-L'ALINEAMENT ES -94:
-L'ALINEAMENT ES 34:
-L'ALINEAMENT ES -102:
-L'ALINEAMENT ES 28:
-L'ALINEAMENT ES 190:
-L'ALINEAMENT ES -112:
-L'ALINEAMENT ES 188:
-L'ALINEAMENT ES -92:
-L'ALINEAMENT ES 138:
-L'ALINEAMENT ES -116:
-L'ALINEAMENT ES 194:
-L'ALINEAMENT ES -98:
-L'ALINEAMENT ES 142:
-L'ALINEAMENT ES -116:
-L'ALINEAMENT ES -90:
-L'ALINEAMENT ES -110:
-L'ALINEAMENT ES -96:
-L'ALINEAMENT ES 146:
-L'ALINEAMENT ES -98:
+L'ALINEAMENTS PER hola:
+______________________________:
+-9 punts amb Z78533.1:
+---------
+-9 punts amb Z78532.1:
+---------
+-9 punts amb Z78531.1:
+---------
+-9 punts amb Z78530.1:
+---------
+-9 punts amb Z78529.1:
+---------
+-9 punts amb Z78527.1:
+---------
+-9 punts amb Z78526.1:
+---------
+-9 punts amb Z78525.1:
+---------
+-9 punts amb Z78524.1:
+---------
+-9 punts amb Z78523.1:
+---------
+-9 punts amb Z78522.1:
+---------
+-9 punts amb Z78521.1:
+---------
+-9 punts amb Z78520.1:
+---------
+-9 punts amb Z78519.1:
+---------
+-9 punts amb Z78518.1:
+---------
+L'ALINEAMENTS PER Z78533.1:
+______________________________:
+34 punts amb Z78532.1:
+---------
+30 punts amb Z78531.1:
+---------
+22 punts amb Z78530.1:
+---------
+-100 punts amb Z78529.1:
+---------
+10 punts amb Z78527.1:
+---------
+14 punts amb Z78526.1:
+---------
+-96 punts amb Z78525.1:
+---------
+12 punts amb Z78524.1:
+---------
+12 punts amb Z78523.1:
+---------
+16 punts amb Z78522.1:
+---------
+-92 punts amb Z78521.1:
+---------
+18 punts amb Z78520.1:
+---------
+-104 punts amb Z78519.1:
+---------
+26 punts amb Z78518.1:
+---------
+L'ALINEAMENTS PER Z78532.1:
+______________________________:
+102 punts amb Z78531.1:
+---------
+108 punts amb Z78530.1:
+---------
+-108 punts amb Z78529.1:
+---------
+38 punts amb Z78527.1:
+---------
+36 punts amb Z78526.1:
+---------
+-104 punts amb Z78525.1:
+---------
+54 punts amb Z78524.1:
+---------
+48 punts amb Z78523.1:
+---------
+58 punts amb Z78522.1:
+---------
+-106 punts amb Z78521.1:
+---------
+56 punts amb Z78520.1:
+---------
+-92 punts amb Z78519.1:
+---------
+48 punts amb Z78518.1:
+---------
+L'ALINEAMENTS PER Z78531.1:
+______________________________:
+120 punts amb Z78530.1:
+---------
+-126 punts amb Z78529.1:
+---------
+36 punts amb Z78527.1:
+---------
+42 punts amb Z78526.1:
+---------
+-104 punts amb Z78525.1:
+---------
+44 punts amb Z78524.1:
+---------
+36 punts amb Z78523.1:
+---------
+46 punts amb Z78522.1:
+---------
+-94 punts amb Z78521.1:
+---------
+46 punts amb Z78520.1:
+---------
+-104 punts amb Z78519.1:
+---------
+50 punts amb Z78518.1:
+---------
+L'ALINEAMENTS PER Z78530.1:
+______________________________:
+-120 punts amb Z78529.1:
+---------
+28 punts amb Z78527.1:
+---------
+32 punts amb Z78526.1:
+---------
+-102 punts amb Z78525.1:
+---------
+56 punts amb Z78524.1:
+---------
+26 punts amb Z78523.1:
+---------
+32 punts amb Z78522.1:
+---------
+-90 punts amb Z78521.1:
+---------
+36 punts amb Z78520.1:
+---------
+-114 punts amb Z78519.1:
+---------
+34 punts amb Z78518.1:
+---------
+L'ALINEAMENTS PER Z78529.1:
+______________________________:
+-112 punts amb Z78527.1:
+---------
+-116 punts amb Z78526.1:
+---------
+-76 punts amb Z78525.1:
+---------
+-110 punts amb Z78524.1:
+---------
+-132 punts amb Z78523.1:
+---------
+-128 punts amb Z78522.1:
+---------
+-116 punts amb Z78521.1:
+---------
+-128 punts amb Z78520.1:
+---------
+-98 punts amb Z78519.1:
+---------
+-124 punts amb Z78518.1:
+---------
+L'ALINEAMENTS PER Z78527.1:
+______________________________:
+186 punts amb Z78526.1:
+---------
+-100 punts amb Z78525.1:
+---------
+44 punts amb Z78524.1:
+---------
+30 punts amb Z78523.1:
+---------
+34 punts amb Z78522.1:
+---------
+-106 punts amb Z78521.1:
+---------
+36 punts amb Z78520.1:
+---------
+-86 punts amb Z78519.1:
+---------
+36 punts amb Z78518.1:
+---------
+L'ALINEAMENTS PER Z78526.1:
+______________________________:
+-100 punts amb Z78525.1:
+---------
+42 punts amb Z78524.1:
+---------
+32 punts amb Z78523.1:
+---------
+36 punts amb Z78522.1:
+---------
+-104 punts amb Z78521.1:
+---------
+38 punts amb Z78520.1:
+---------
+-88 punts amb Z78519.1:
+---------
+38 punts amb Z78518.1:
+---------
+L'ALINEAMENTS PER Z78525.1:
+______________________________:
+-96 punts amb Z78524.1:
+---------
+-102 punts amb Z78523.1:
+---------
+-102 punts amb Z78522.1:
+---------
+-102 punts amb Z78521.1:
+---------
+-102 punts amb Z78520.1:
+---------
+-100 punts amb Z78519.1:
+---------
+-100 punts amb Z78518.1:
+---------
+L'ALINEAMENTS PER Z78524.1:
+______________________________:
+28 punts amb Z78523.1:
+---------
+34 punts amb Z78522.1:
+---------
+-94 punts amb Z78521.1:
+---------
+34 punts amb Z78520.1:
+---------
+-102 punts amb Z78519.1:
+---------
+28 punts amb Z78518.1:
+---------
+L'ALINEAMENTS PER Z78523.1:
+______________________________:
+190 punts amb Z78522.1:
+---------
+-112 punts amb Z78521.1:
+---------
+188 punts amb Z78520.1:
+---------
+-92 punts amb Z78519.1:
+---------
+138 punts amb Z78518.1:
+---------
+L'ALINEAMENTS PER Z78522.1:
+______________________________:
+-116 punts amb Z78521.1:
+---------
+194 punts amb Z78520.1:
+---------
+-98 punts amb Z78519.1:
+---------
+142 punts amb Z78518.1:
+---------
+L'ALINEAMENTS PER Z78521.1:
+______________________________:
+-116 punts amb Z78520.1:
+---------
+-90 punts amb Z78519.1:
+---------
+-110 punts amb Z78518.1:
+---------
+L'ALINEAMENTS PER Z78520.1:
+______________________________:
+-96 punts amb Z78519.1:
+---------
+146 punts amb Z78518.1:
+---------
+L'ALINEAMENTS PER Z78519.1:
+______________________________:
+-98 punts amb Z78518.1:
+---------
+L'ALINEAMENTS PER Z78518.1:
+______________________________:

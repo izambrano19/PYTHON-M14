@@ -42,11 +42,15 @@ def alinea(cadena1,cadena2):
 claus = list(diccionari.keys())
 
 
-with open("informe.txt","w") as simple_handle:
+with open("informe.txt","w") as fichero:
     for i in range(len(claus)):#Desde i hasta la longitud del vector de claus
+        fichero.write("L'ALINEAMENTS PER " + claus[i] + ":\n")
+        fichero.write("______________________________:\n")
+
         for j in range(i+1,len(claus)):#Hacemos un segundo bucle que comienza uno más a la derecha, que va contando de 1 en 1 según la longitud de i.
             #primer = diccionari[claus[i]]
             #segon = diccionari[claus[j]]
             alineament = alinea(diccionari[claus[i]],diccionari[claus[j]])
-            simple_handle.write("L'ALINEAMENT ES " + str(alineament) + ":\n")
+            fichero.write(str(alineament) + " punts amb " + claus[j] + ":\n")
+            fichero.write("---------\n")
 
