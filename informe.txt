@@ -270,3 +270,5 @@ ______________________________:
 ---------
 L'ALINEAMENTS PER Z78518.1:
 ______________________________:
+EL MILLOR ALINEAMENT ES ENTRE Z78522.1 i Z78520.1
+EL MILLOR ALINEAMENT TÉ 194 punts

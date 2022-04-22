@@ -40,6 +40,9 @@ def alinea(cadena1,cadena2):
 
 #claus = diccionari.keys() Esto no va ya que tiene que hacer una lista de los valores
 claus = list(diccionari.keys())
+maxim = 0
+cadenamaxim1 = ""
+cadenamaxim2 = ""
 
 
 with open("informe.txt","w") as fichero:
@@ -51,6 +54,11 @@ with open("informe.txt","w") as fichero:
             #primer = diccionari[claus[i]]
             #segon = diccionari[claus[j]]
             alineament = alinea(diccionari[claus[i]],diccionari[claus[j]])
+            if alineament > maxim:
+                maxim = alineament
+                cadenamaxim1 = claus[i]
+                cadenamaxim2 = claus[j]
             fichero.write(str(alineament) + " punts amb " + claus[j] + ":\n")
             fichero.write("---------\n")
-
+    fichero.write("EL MILLOR ALINEAMENT ES ENTRE " + cadenamaxim1 + " i " + cadenamaxim2 + "\n")
+    fichero.write("EL MILLOR ALINEAMENT TÉ " + str(maxim) + " punts\n")
